@@ -2490,7 +2490,7 @@ class Zn {
     static pageView(e) {
         this.ga("page_view", {
             page_title: e,
-            page_location: `https://jackbox.tv/${e}`
+            page_location: `https://domthedom.github.io/${e}`
         })
     }
     static gameStarted(e, r) {
